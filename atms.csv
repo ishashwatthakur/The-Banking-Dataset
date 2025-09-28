@@ -1,0 +1,7 @@
+ATM_ID,BankName,Location,City,Pincode,Status,CashAvailable,Services
+ATMMUM01,Bank of Baroda,Near Fort Branch,Mumbai,400001,Working,TRUE,"Cash Withdrawal, Mini Statement"
+ATMDEL01,Central Bank of India,Connaught Place Market,Delhi,110001,Working_NoCash,FALSE,"Balance Enquiry, Mini Statement"
+ATMBLR01,Union Bank of India,MG Road Metro Station,Bangalore,560001,Working,TRUE,"Cash Withdrawal, Balance Enquiry"
+ATMCHN01,Union Bank of India,T Nagar Main Road,Chennai,600017,Out of Service,FALSE,"Not Available"
+ATMKOL01,Central Bank of India,Park Street,Kolkata,700016,Working,TRUE,"Cash Withdrawal, Balance Enquiry"
+ATMPUN01,Bank of Baroda,Deccan Gymkhana Main Road,Pune,411004,Working,TRUE,"Cash Withdrawal, Mini Statement"

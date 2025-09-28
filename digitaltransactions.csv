@@ -1,0 +1,13 @@
+TransactionID,AccountNumber,Platform,TransactionDate,Amount(INR),Recipient,Status,FailureReason,AuthMethod
+DGTX001,123456789012,UPI/Google Pay,2025-09-20 20:15:10,-450.00,Zomato,Completed,,PIN
+DGTX002,234567890123,UPI/Paytm,2025-09-19 19:30:05,-120.00,Starbucks,Failed,Insufficient balance,PIN
+DGTX003,345678901234,Netbanking,2025-09-18 18:05:45,-18000.00,Landlord,Completed,,Password + OTP
+DGTX004,456789012345,Mobile Banking App,2025-09-17 17:50:12,+5000.00,Friend,Completed,,Biometric
+DGTX005,567890123456,UPI/PhonePe,2025-09-16 16:20:30,-2500.00,Amazon,Failed,Incorrect PIN,PIN
+DGTX006,678901234567,Netbanking,2025-09-15 15:45:00,+85000.00,Salary Credit,Completed,,Password + OTP
+DGTX007,789012345678,Mobile Banking App,2025-09-14 14:25:18,-1200.00,Electricity Bill,Completed,,Biometric
+DGTX008,890123456789,Netbanking,2025-09-13 13:40:00,-90000.00,Loan EMI,Completed,,Password + OTP
+DGTX009,901234567890,UPI/Paytm,2025-09-12 12:30:40,-350.00,Swiggy,Completed,,PIN
+DGTX010,135792468012,UPI/PhonePe,2025-09-11 11:15:25,-1000.00,Myntra,Reversed,Merchant error,PIN
+DGTX011,357912468034,Mobile Banking App,2025-09-10 10:05:00,-700.00,Uber,Completed,,Biometric
+DGTX012,246801357923,Netbanking,2025-09-09 09:00:00,+180000.00,Investment Credit,Completed,,Password + OTP

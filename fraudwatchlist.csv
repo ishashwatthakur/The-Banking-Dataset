@@ -1,0 +1,11 @@
+EntityName,EntityType,RiskLevel,Reason,RecommendedAction
+QuickCash Loans Inc.,Company,High,Known instant-loan phishing scam,Do not share personal details or transfer money. Block immediately.
+freemoney.io,Website,High,Fake government grant scheme,Do not click or register on this site.
+prize-winner@xyzupi,UPI ID,High,Fake lottery scam,Do not pay or approve any UPI requests.
+TechSupportGlobal,Company,Medium,Impersonating technical support,Do not allow remote access to your device.
+refund-dept@fakebank.com,Email,High,Fake refund email scam,Never click refund links. Bank never sends emails like this.
+JobOfferz.Online,Website,Medium,Fake job offer site,Verify employers before paying deposits or documents fee.
+CharityHelpNow,Organization,Medium,Suspicious donation requests,Donate only to verified NGOs and government relief funds.
+win-a-free-car.net,Website,High,Fraudulent prize contest,Do not pay fees or share card details for prizes.
+SIMCardBlock@support.com,Email,High,Scare tactic for SIM deactivation,Ignore and contact your mobile operator directly.
+OLX-Army-Scam,Social Media Profile,High,Impersonating army personnel for fake classifieds,Do not send advance payments.

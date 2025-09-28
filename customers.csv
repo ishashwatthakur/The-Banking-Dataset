@@ -1,0 +1,13 @@
+CustomerName,AccountNumber,Last4Digits,AccountBalance(INR),AccountStatus,AccountOpeningDate,KYCStatus,HomeBranchIFSC,CardNumber,CardStatus,RegisteredMobile,CustomerTier,AccountFlags,AccountPIN,SecurityQuestion,SecurityAnswer,MockOTP
+Priya Sharma,123456789012,9012,15430.55,Active,2018-05-20,Verified,BARB0FORTXX,4567890123456789,Active,9876543210,Premium,New_To_Bank,1234,"What is your mother's maiden name?",Sharma,123456
+Rohan Gupta,234567890123,0123,89500.75,Active,2019-11-12,Verified,UBIN0ANDHER,5678901234567890,Active,9876543211,Standard,None,2345,"What is your birth city?",Delhi,234567
+Anjali Mehta,345678901234,1234,5230.10,Active,2020-01-30,Pending,CBIN0MGROAD,6789012345678901,Active,9876543212,Standard,Overdue_Payment,3456,"What is your favorite pet's name?",Moti,345678
+Vikram Singh,456789012345,2345,125000.00,Active,2017-06-25,Verified,BARB0CONNAU,7890123456789012,Blocked,9876543213,Premium,None,4567,"What is your mother's maiden name?",Singh,456789
+Sunita Rao,567890123456,3456,980.20,Inactive,2021-08-15,Action Required,UBIN0TNAGAR,8901234567890123,Expired,9876543214,Standard,None,5678,"What is your birth city?",Chennai,567890
+Aditya Kumar,678901234567,4567,75000.00,Active,2022-03-10,Verified,BARB0FORTXX,9012345678901234,Active,9876543215,Standard,New_To_Bank,6789,"What is your favorite pet's name?",Bruno,678901
+Neha Reddy,789012345678,5678,2500.50,Active,2019-07-22,Verified,UBIN0ANDHER,1234567890123456,Active,9876543216,Senior,None,7890,"What is your mother's maiden name?",Reddy,789012
+Suresh Iyer,890123456789,6789,550000.00,Active,2016-02-18,Verified,CBIN0MGROAD,2345678901234567,Active,9876543217,Premium,None,8901,"What is your birth city?",Mumbai,890123
+Meera Nair,901234567890,7890,12000.00,Closed,2020-09-01,Verified,BARB0CONNAU,3456789012345678,Blocked,9876543218,Standard,None,9012,"What is your favorite pet's name?",Lucy,901234
+Amit Patel,135792468012,8012,6500.80,Active,2021-12-05,Pending,UBIN0TNAGAR,4567890123456799,Active,9876543219,Senior,Overdue_Payment,1357,"What is your mother's maiden name?",Patel,135790
+Rajesh Menon,357912468034,8034,4200.00,Active,2023-01-20,Verified,UBIN0ANDHER,6789012345678902,Active,9876543221,Standard,New_To_Bank,3579,"What is your favorite pet's name?",Rocky,357912
+Kavita Joshi,246801357923,7923,180000.00,Active,2018-04-16,Verified,BARB0FORTXX,5678901234567891,Active,9876543220,Premium,None,2468,"What is your birth city?",Pune,246801

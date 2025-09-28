@@ -1,0 +1,9 @@
+TicketID,AccountNumber,ComplaintDate,ComplaintDetails,Status,ComplaintCategory,LastUpdateDate,ResolutionDetails
+C201,123456789012,2025-09-05,Unauthorized transaction on debit card,In Progress,Transaction,2025-09-20,"Investigation with merchant ongoing."
+C202,234567890123,2025-09-02,Cheque not cleared after 5 days,Resolved,Service,2025-09-08,"Cheque was cleared and amount credited."
+C203,345678901234,2025-08-28,Mobile banking app login issue,Open,App Issue,2025-08-28,"Customer awaiting technical resolution."
+C204,456789012345,2025-09-10,Incorrect interest credited to FD,Resolved,Service,2025-09-15,"Differential interest credited."
+C205,567890123456,2025-09-12,ATM did not dispense cash but account debited,In Progress,Transaction,2025-09-18,"CCTV footage requested from ATM location."
+C206,678901234567,2025-09-14,Unable to set new PIN for debit card,Open,Card Services,2025-09-14,"Branch visit advised."
+C207,789012345678,2025-09-15,Suspicious phishing email received,Resolved,Security,2025-09-16,"Customer educated on phishing awareness."
+C208,890123456789,2025-09-16,Charged a late fee despite on-time payment,Open,Charges,2025-09-16,"Fee under verification."

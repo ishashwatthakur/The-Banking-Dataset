@@ -1,0 +1,7 @@
+BankName,BranchName,Address,City,Pincode,IFSC,WorkingHours,Phone,ServicesAvailable,CurrentWaitTime
+Bank of Baroda,BOB Fort,"123 Commerce House, Fort",Mumbai,400001,BARB0FORTXX,"Mon-Fri 10:00-16:00",22-22610987,"Forex, Lockers, Gold Loan",15 mins
+Union Bank of India,UBI Andheri,"456 JP Road, Andheri",Mumbai,400058,UBIN0ANDHER,"Mon-Fri 10:00-17:00",22-26204532,"Cash Deposit, Forex",10 mins
+Central Bank of India,CBI Connaught Place,"101 Parliament Street, Connaught Place",Delhi,110001,CBIN0MGROAD,"Mon-Fri 09:30-16:30",11-23361234,"Lockers, Cash Deposit",20 mins
+Union Bank of India,UBI T Nagar,"212 Usman Road, T Nagar",Chennai,600017,UBIN0TNAGAR,"Mon-Fri 10:00-17:00",44-24345678,"Gold Loan, Lockers",10 mins
+Central Bank of India,CBI Park Street,"303 Park Street",Kolkata,700016,CBIN0PARKST,"Mon-Fri 09:30-16:30",33-22269876,"Forex, Cash Deposit",25 mins
+Bank of Baroda,BOB Deccan,"888 JM Road, Deccan Gymkhana",Pune,411004,BARB0DECCAN,"Mon-Fri 10:00-16:00",20-25531234,"Lockers, Gold Loan",15 mins

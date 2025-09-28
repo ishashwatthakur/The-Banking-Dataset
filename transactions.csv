@@ -1,0 +1,16 @@
+TransactionID,AccountNumber,TransactionDate,Description,Amount(INR),Type,MerchantName,DisputeStatus,IsFlagged
+TXN001,123456789012,2025-09-20,UPI/Zomato,-450.00,Debit,Zomato,Not Disputed,FALSE
+TXN002,123456789012,2025-09-19,Salary Credit,+50000.00,Credit,Employer Inc.,Not Disputed,FALSE
+TXN003,234567890123,2025-09-18,ATM Withdrawal,-5000.00,Debit,ATM,Not Disputed,FALSE
+TXN004,345678901234,2025-09-17,POS/Bookstore,-1200.00,Debit,Crossword,Not Disputed,FALSE
+TXN005,456789012345,2025-09-16,IMPS/Friend,+2000.00,Credit,Friend,Not Disputed,FALSE
+TXN006,567890123456,2025-09-15,UPI/Amazon,-3200.00,Debit,Amazon,Dispute Raised,TRUE
+TXN007,678901234567,2025-09-14,Interest Credit,+150.00,Credit,Bank,Not Disputed,FALSE
+TXN008,789012345678,2025-09-13,POS/Pharmacy,-800.00,Debit,Apollo Pharmacy,Not Disputed,FALSE
+TXN009,890123456789,2025-09-12,RTGS/Business,+150000.00,Credit,Business Corp,Not Disputed,FALSE
+TXN010,901234567890,2025-09-11,ATM Withdrawal,-1000.00,Debit,ATM,Not Disputed,FALSE
+TXN011,135792468012,2025-09-10,POS/Medical,-1800.00,Debit,MedPlus,Not Disputed,FALSE
+TXN012,357912468034,2025-09-09,UPI/Swiggy,-600.00,Debit,Swiggy,Not Disputed,FALSE
+TXN013,246801357923,2025-09-08,RTGS/Investment,+80000.00,Credit,Invest Corp,Not Disputed,FALSE
+TXN014,586970819203,2025-09-07,UPI/Mobile Recharge,-599.00,Debit,Jio,Dispute Resolved,FALSE
+TXN015,791356802478,2025-09-06,POS/Apparel,-3200.00,Debit,Lifestyle,Not Disputed,FALSE
