@@ -1,0 +1,142 @@
+Questions to Ask The Banking Compass
+
+
+Part 1: Introduction & Basic Queries
+
+1. Start with Greeting
+"Hello"
+
+2. Account Balance (English)
+"What is my account balance?"
+[Bot asks for account number]
+"123456789012"
+[Bot sends OTP]
+"123456"
+
+3. Transaction History
+"Show me my last 5 transactions"
+
+Part 2: Card Services
+
+4. Card Block - Ambiguous
+"I have a card problem"
+
+5. Card Block - Specific
+"I want to block my debit card"
+[Bot asks for confirmation]
+"Yes"
+
+6. Card Already Blocked
+"Block card ending 6789"
+
+Part 3: Disputes & Complaints
+
+7. Raise Dispute - Success
+"I want to dispute a transaction of 450 rupees from September 20"
+
+8. New Complaint
+"I want to file a complaint"
+[Bot asks for details]
+"I was charged fees incorrectly on my account"
+
+9. Check Complaint Status
+"What is the status of complaint C201?"
+
+Part 4: Branch & ATM Services
+
+10. Branch Locator - City
+"Show me nearest branch in Mumbai"
+
+11. ATM Locator
+"Where is the nearest ATM to pincode 400001?"
+
+Part 5: Banking Information
+
+12. KYC Status - Verified
+"What is my KYC status?"
+
+13. Cheque Status - Pending
+"Check status of cheque number 900002"
+
+14. Loan Status
+"What is the status of loan HL9001?"
+
+14.0. FD Rates
+"Show me FD interest rates"
+
+Part 6: Language Testing
+
+15. Switch to Hindi
+"Hindi mein baat karo"
+
+16. Balance in Hindi
+"मेरा बैलेंस क्या है?"
+[Bot asks for account in Hindi]
+"123456789012"
+[Bot sends OTP message in Hindi]
+"123456"
+
+17. Mixed Language (Hinglish)
+"Mere last month ke transactions dikhao"
+
+Part 7: Security & Authentication
+
+18. Wrong OTP - First Attempt
+"Check my balance"
+"123456789012"
+[Bot sends OTP]
+"999999"
+
+Part 8: Fraud & Security
+
+19. Fraud Check - Known Entity
+"Is QuickCash Loans legitimate?"
+
+20. Fraud Check - Unknown Entity
+"Is ABC Company safe?"
+
+Part 9: Edge Cases & Errors
+
+21. Ambiguous Amount
+"I need to transfer money"
+[Bot asks how much]
+"Around 5000"
+[Bot asks for exact amount]
+"5000"
+
+22. Account Not Found
+"Check balance for account 999999999999"
+
+23. Missing Information
+"Transfer money"
+[Bot asks: To whom?]
+"Cancel"
+
+24. Timeout Simulation
+"Show my transactions"
+[Wait without responding to OTP request]
+
+Part 10: Escalation Scenarios
+
+25. Polite Escalation Request
+"I want to speak to a human agent"
+
+26. Frustration Escalation
+"This is useless, you're not helping"
+
+Part 11: Additional Features
+
+27. FAQ - Charges
+"What are the charges for not maintaining minimum balance?"
+
+28. FAQ - Services
+"How can I update my mobile number?"
+
+Part 12: Closing
+29. End Conversation
+"That's all, thank you"
+
+Part 13: Voice Channel Specific
+
+30. Voice - Slow Speech
+"Can you speak slowly?"
